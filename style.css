@@ -1,0 +1,46 @@
+.first {
+    font-size: 40px;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(26, 26, 112);
+    background-color: skyblue;
+}
+
+.second {
+    font-size: 30px;
+    text-align: right;
+    text-decoration: underline;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    background-color: lightgreen;
+    opacity: 60%;
+}
+
+.two {
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.fifth {
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+}
+
+.third {
+    font-size: 30px;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightgreen;
+    opacity: 60%;
+}
+
+body {
+    background-color: gray;
+}
+
+.fourth {
+    text-decoration: line-through;
+    color: wheat;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+}
